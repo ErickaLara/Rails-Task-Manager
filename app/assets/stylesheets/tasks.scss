@@ -1,0 +1,24 @@
+// Place all the styles related to the task controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+#tasks {
+    padding-left: 0;
+    list-style-type: none;
+    color: blue;
+    font-family: 'MonteCarlo', cursive;
+    color: aquamarine;
+  }
+
+  h1, h3 {
+    font-family: 'Lobster', cursive;
+    color: rgb(71, 15, 104);
+  }
+  
+  body {
+    background-color: burlywood;
+  }
+
+  form {
+    font-family: 'MonteCarlo', cursive;
+    color: darkviolet
+   }
